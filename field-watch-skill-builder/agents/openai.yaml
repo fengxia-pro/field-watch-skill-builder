@@ -1,0 +1,4 @@
+interface:
+  display_name: "Field Watch Skill Builder"
+  short_description: "Generate field-specific literature watch skills"
+  default_prompt: "Use $field-watch-skill-builder to create a literature-watch SKILL.md for CO2 electroreduction."

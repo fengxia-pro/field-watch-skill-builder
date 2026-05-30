@@ -1,0 +1,9 @@
+name: field-watch-skill-builder
+description: 根据用户给出的任意研究领域，自动生成一个可安装的专属文献推送技能 SKILL.md，适配该领域的核心团队、核心期刊、核心关键词与批判性阅读框架。
+version: 1.0.0
+user-invocable: true
+metadata:
+  openclaw:
+    emoji: "🛠️"
+    homepage: "https://youmind.com"
+    disable-model-invocation: false
